@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "home": "Главная",
+    "about": "Обо мне",
+    "skills": "Навыки",
+    "portfolio": "Портфолио",
+    "contact": "Контакты"
+  },
+  "hero": {
+    "name": "Bobur Bohodirov",
+    "title": "Front-end разработчик",
+    "description": "Создаю современные веб-приложения с использованием React, JavaScript и других современных технологий",
+    "viewWork": "Посмотреть работы",
+    "contact": "Связаться"
+  },
+  "about": {
+    "title": "Обо мне",
+    "photo": "Фото",
+    "description1": "Привет! Меня зовут Bobur, и я front-end разработчик с опытом работы более 1 лет. Специализируюсь на создании современных веб-приложений с использованием React и JavaScript.",
+    "description2": "Мне нравится превращать идеи в красивые и функциональные интерфейсы. Всегда изучаю новые технологии и стремлюсь к созданию качественного кода.",
+    "experience": "Года опыта",
+    "projects": "Проектов"
+  },
+  "skills": {
+    "title": "Навыки"
+  },
+  "portfolio": {
+    "title": "Портфолио",
+    "projects": {
+      "ecommerce": {
+        "title": "Truk",
+        "description": "Современный Truk на React"
+      },
+      "todoApp": {
+        "title": "MediaCard",
+        "description": "Простое приложение"
+      },
+      "landing": {
+        "title": "Hamster Combat",
+        "description": "Адаптивная Hamster Combat"
+      }
+    },
+    "demo": "Демо",
+    "code": "Код"
+  },
+  "contact": {
+    "title": "Контакты",
+    "subtitle": "Свяжитесь со мной",
+    "form": {
+      "name": "Имя",
+      "email": "Email",
+      "message": "Сообщение",
+      "submit": "Отправить сообщение"
+    }
+  }
+}

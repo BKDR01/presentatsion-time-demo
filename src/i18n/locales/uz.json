@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "home": "Bosh sahifa",
+    "about": "Men haqimda",
+    "skills": "Ko'nikmalar",
+    "portfolio": "Portfolio",
+    "contact": "Aloqa"
+  },
+  "hero": {
+    "name": "Bobur Bohodirov",
+    "title": "Front-end dasturchi",
+    "description": "React, JavaScript va boshqa zamonaviy texnologiyalar yordamida zamonaviy veb-ilovalar yarataman",
+    "viewWork": "Ishlarni ko'rish",
+    "contact": "Bog'lanish"
+  },
+  "about": {
+    "title": "Men haqimda",
+    "photo": "Rasm",
+    "description1": "Salom! Mening ismim Bobur va men 1 yildan ortiq tajribaga ega front-end dasturchiman. React va JavaScript yordamida zamonaviy veb-ilovalar yaratishga ixtisoslashganman.",
+    "description2": "Menga g'oyalarni chiroyli va funksional interfeyslarga aylantirish yoqadi. Har doim yangi texnologiyalarni o'rganaman va sifatli kod yaratishga intilaman.",
+    "experience": "Yillik tajriba",
+    "projects": "Loyihalar"
+  },
+  "skills": {
+    "title": "Ko'nikmalar"
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "projects": {
+      "ecommerce": {
+        "title": "Truk",
+        "description": "React da yaratilgan zamonaviy qurulma ishlar ucun hizmat"
+      },
+      "todoApp": {
+        "title": "Mediacard",
+        "description": "oddiy kichik ilova"
+      },
+      "landing": {
+        "title": "Hamster Combat",
+        "description": "moslashuvchan Hamster Combat oyini"
+      }
+    },
+    "demo": "Demo",
+    "code": "Kod"
+  },
+  "contact": {
+    "title": "Aloqa",
+    "subtitle": "Men bilan bog'laning",
+    "form": {
+      "name": "Ism",
+      "email": "Email",
+      "message": "Xabar",
+      "submit": "Xabar yuborish"
+    }
+  }
+}

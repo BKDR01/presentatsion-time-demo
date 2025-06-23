@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "portfolio": "Portfolio",
+    "contact": "Contact"
+  },
+  "hero": {
+    "name": "Bobur Bohodirov",
+    "title": "Front-end Developer",
+    "description": "Creating modern web applications using React, JavaScript and other cutting-edge technologies",
+    "viewWork": "View Work",
+    "contact": "Get in Touch"
+  },
+  "about": {
+    "title": "About Me",
+    "photo": "Photo",
+    "description1": "Hi! My name is Bobur, and I'm a front-end developer with over 1 years of experience. I specialize in creating modern web applications using React and JavaScript.",
+    "description2": "I love turning ideas into beautiful and functional interfaces. Always learning new technologies and striving to create quality code.",
+    "experience": "Years Experience",
+    "projects": "Projects"
+  },
+  "skills": {
+    "title": "Skills"
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "projects": {
+      "ecommerce": {
+        "title": "Truk",
+        "description": "Modern Truk built with React"
+      },
+      "todoApp": {
+        "title": "MediaCard",
+        "description": "Simple task management"
+      },
+      "landing": {
+        "title": "Hamster Combat",
+        "description": "Responsive Hamster Combat"
+      }
+    },
+    "demo": "Demo",
+    "code": "Code"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Get in Touch",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send Message"
+    }
+  }
+}
